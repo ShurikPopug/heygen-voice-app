@@ -1,0 +1,24 @@
+{
+  "voices": [
+    {
+      "id": "99633efc7a7945a4bb23011324740efb",
+      "name": "Документальный энергичный 1",
+      "language": "ru",
+      "gender": "male",
+      "age": "adult",
+      "display": "[Russian][Male][Adult] Документальный энергичный 1"
+    },
+    {
+      "id": "9b4075faf66e44ce8ce376fb5eaa7add",
+      "name": "Документальный энергичный 2",
+      "language": "en",
+      "gender": "male",
+      "age": "adult",
+      "display": "[English][Male][Adult] Документальный энергичный 2"
+    }
+  ],
+  "custom_voice": {
+    "id": "",
+    "name": "🎤 Свой голос (из config.json)"
+  }
+}
